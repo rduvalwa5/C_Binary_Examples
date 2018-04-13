@@ -1,0 +1,4 @@
+Links:
+
+https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/
+http://www.gnu.org/software/libc/manual/pdf/libc.pdf
