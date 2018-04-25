@@ -4,8 +4,6 @@
  * C program to convert the given binary number into decimal
 */
 
-
-
 #include <stdio.h>
 
 void main()
