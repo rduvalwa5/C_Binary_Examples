@@ -1,7 +1,3 @@
-# C_Binary_Examples
-explore C  binary code
-Down load source code and create a project for each source code file.
-
 Compile syntax:  
 	gcc binary.c -o binary.exe
 	Osx_Wireless:Binary rduvalwa2$ ls -l
@@ -12,3 +8,4 @@ Compile syntax:
 	make binary
 	Exit Binary ProgramOsx_Wireless:Binary rduvalwa2$ ls
 	binary		binary.c
+	
