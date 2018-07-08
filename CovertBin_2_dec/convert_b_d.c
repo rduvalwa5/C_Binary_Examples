@@ -53,5 +53,8 @@ void main()
     }
     printf("The Binary number is = %d \n", binary_val);
     printf("Its decimal equivalent is = %d \n", decimal_val);
+    int ch;
+    ch = 141;
+    printf("Its alpha equivalent is = %c \n", 141);
 }
 
